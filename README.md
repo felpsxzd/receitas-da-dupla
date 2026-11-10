@@ -1,1 +1,1 @@
-# receitas-da-dupla
+## Receitas
